@@ -8,3 +8,4 @@ while amount_due > 0:
     amount_due -= coin
 
 print(f"Change Due: {abs(amount_due)}")
+# Easy
